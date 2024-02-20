@@ -2,3 +2,4 @@ spalati lamaile
 stoarceti lamaile
 adaugati mierea
 adaugati apa
+testarea unui branch nou
